@@ -1,6 +1,6 @@
 'use strict';
 
-/*let datos = [{
+/* no funcionalet datos = [{
     title : 'mis datos' ,
     isReady : true,
     description : '',
